@@ -9,10 +9,10 @@ With a unique and complex relationship to firearms, the United States has seen i
 The primary source of our data is the Gun Violence Archive, which offers detailed reports on gun-related incidents, including mass shootings, across the United States. This comprehensive and up-to-date resource has been instrumental in our analysis.
 
 # Methodology
-# Data Collection
+# 1. Data Collection
 Our data was meticulously gathered through a web-scraping routine utilizing Selenium and BeautifulSoup. This combination allowed us to navigate complex website structures and dynamically interact with web pages to collect detailed information on mass shootings.
 
-# Data Analysis
+# 2. Data Analysis
 We integrated our collected data into a MySQL database, designed to facilitate a multi-dimensional analysis of the incidents. This structure enables us to examine trends and patterns across different states and over time.
 
 # Authors
